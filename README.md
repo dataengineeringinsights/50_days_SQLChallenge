@@ -1,3 +1,7 @@
+# 50 Days to Change Your Life
+
+**Welcome to the 50-Day Challenge Community!**
+
 🏆 50 Days SQL Challenge
 Welcome to the 50 Days SQL Challenge! This repository is dedicated to enhancing your SQL skills through daily challenges that cover a wide range of SQL concepts, from basic queries to advanced data manipulation and analysis.
 
