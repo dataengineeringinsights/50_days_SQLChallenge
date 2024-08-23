@@ -22,7 +22,9 @@ Check the Solutions to see my approach to each challenge. Remember, there might 
 **Contributions**: Have a different solution or an idea for a new challenge? Feel free to comment in you tube channel.
 
  ## 🚀 Getting Started
+ 
 **Prerequisites**: Basic understanding of SQL and access to a SQL environment like MySQL.
+
 **Tools**: Use any SQL client of your choice (e.g., MySQL Workbench, pgAdmin, or an online SQL editor).
 
 ## 💡 Tips for Success
